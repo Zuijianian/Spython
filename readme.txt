@@ -4,4 +4,4 @@ git is bad! right?
 git is so dangerous!
 
 creating a new branch is quick！
-why my branch didn't work?!
+why my branch didn't work?!let me try again.
