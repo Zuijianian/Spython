@@ -1,10 +1,10 @@
-Git is a distributed version control system.
+SDF AEWF AEWF EWF AEWF EAF AWEF AEWF AEWF A
+
+
+
+t is a distributed rsion control system.
 Git is free software.
 git is bad! right?
-git is so dangerous!
+git is so dangerou
 
-creating a new branch is quick！
-why my branch didn't work?!let me try again.
-why my branch didn't work?!aw！ it's working!
-
-today i dont want to do anything! right？
+new branch is quick！
